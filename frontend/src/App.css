@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  background-color: rgb(149, 175, 227);
+  display: grid;
+  justify-content: space-between;
+  justify-items:normal;
+  
+}
+
+
